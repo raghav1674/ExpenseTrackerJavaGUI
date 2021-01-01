@@ -1,0 +1,6 @@
+*.xml
+*.mf
+test/
+nbproject/
+build/
+*.form
